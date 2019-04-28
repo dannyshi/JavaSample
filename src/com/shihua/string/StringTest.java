@@ -7,6 +7,7 @@ public class StringTest {
 		String a = new String("hello");
 		String b = "hello";
 		//upate 0428pwd
+		//2
 
 	}
 
