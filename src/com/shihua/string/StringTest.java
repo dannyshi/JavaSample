@@ -8,7 +8,11 @@ public class StringTest {
 		String b = "hello";
 		//upate 0428pwd  localdev do some update
 		//2
+//<<<<<<< HEAD
 		//master add 1
+///=======
+		//localdev add 2
+//>>>>>>> localDev
 	}
 
 }
