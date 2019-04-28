@@ -6,7 +6,7 @@ public class StringTest {
 		// TODO Auto-generated method stub
 		String a = new String("hello");
 		String b = "hello";
-		//upate 0428pwd
+		//upate 0428pwd  localdev do some update
 		//2
 
 	}
